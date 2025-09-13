@@ -1,5 +1,6 @@
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 104 ms, Speed: 5.66 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 13 ms, Speed: 9.70 M/s, Resolution: None
-Name: 河南卫视, URL: http://lxajh.top/tv/hn.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 97 ms, Speed: 5.37 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: http://61.149.251.202:4022/rtp/239.3.1.184:8001, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 512 ms, Speed: 0.82 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://61.149.251.202:4022/rtp/239.3.1.151:8144, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 512 ms, Speed: 0.89 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 77 ms, Speed: 9.93 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://lxajh.top/tv/hn.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 111 ms, Speed: 7.01 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 34 ms, Speed: 3.16 M/s, Resolution: None
+Name: CCTV-8, URL: http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10059 ms, Speed: 0.19 M/s, Resolution: None
+Name: CCTV-17, URL: http://61.149.251.202:4022/rtp/239.3.1.151:8144, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 394 ms, Speed: 0.96 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://61.149.251.202:4022/rtp/239.3.1.184:8001, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 396 ms, Speed: 0.86 M/s, Resolution: 1920x1080
